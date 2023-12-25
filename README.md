@@ -1,0 +1,1 @@
+Having a set of data, we want to predict a heart attack using classification. Is the person in question likely to have a heart attack? If yes (1) and if no (0). Use three methods: SVM , Logistic Regrresion and Decision tree
